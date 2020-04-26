@@ -6,7 +6,7 @@ public class Main {
         marwin.add(book1);
         marwin.add(book2);
         marwin.printAllProducts();
-        marwin.sellBook(book1);
+        marwin.sell(book1);
 
     }
 }
